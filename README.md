@@ -14,5 +14,5 @@ Python 3.X
 ## Usage
 ```sh
 # See command line help
-python sudoku.sh -h
+python sudoku.py -h
 ```
